@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>home pafe</title>
+</head>
+<body>
+<h1>this is the home page</h1>
+
+
+{% for job in jobs.all %}
+<li>{{job.summary}} - {{job.image.url}}</li>
+
+
+{% endfor %}
+</body>
+</html>

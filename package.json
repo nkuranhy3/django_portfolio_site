@@ -1,0 +1,9 @@
+{
+  "name": "django_portfolio_site",
+  "version": "0.0.1",
+  "description": "django project",
+  "main": "index.js",
+  "repository": "https://github.com/nkuranhy3/django_portfolio_site.git",
+  "author": "alfred <programmingwithalfred@gmail.com>",
+  "license": "MIT"
+}
